@@ -107,9 +107,8 @@ Andhra University | CGPA: 8.05 | June 2016 – April 2019
 
 I'm passionate about DevOps practices, cloud-native technologies, and building scalable infrastructure solutions. Always open to discussing DevOps strategies, AWS best practices, and Kubernetes deployments.
 
-- 📧 Email: keerthipriyakota@gmail.com
 - 💼 LinkedIn: [Kota Keerthi Priya](https://www.linkedin.com/in/kota-keerthi-priya-700614225/)
-- 📱 Phone: +919966462474
+  
 
 ---
 
