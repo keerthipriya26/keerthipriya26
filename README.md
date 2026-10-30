@@ -1,6 +1,6 @@
 # Hi there, I'm Keerthi Priya Kota 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kota-keerthi-priya-700614225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keerthipriyakota/)
 [![Email](https://img.shields.io/badge/Email-keerthipriyakota%40gmail.com-red?style=flat&logo=gmail)](mailto:keerthipriyakota@gmail.com)
 [![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=flat&logo=amazon-aws)](https://aws.amazon.com/certification/)
 
@@ -107,7 +107,7 @@ Andhra University | CGPA: 8.05 | June 2016 – April 2019
 
 I'm passionate about DevOps practices, cloud-native technologies, and building scalable infrastructure solutions. Always open to discussing DevOps strategies, AWS best practices, and Kubernetes deployments.
 
-- 💼 LinkedIn: [Kota Keerthi Priya](https://www.linkedin.com/in/kota-keerthi-priya-700614225/)
+- 💼 LinkedIn: [Kota Keerthi Priya](https://www.linkedin.com/in/keerthipriyakota/)
   
 
 ---
